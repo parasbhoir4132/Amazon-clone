@@ -1,2 +1,2 @@
 # Amazon-clone
-Create the amazon clone using html and css
+create the amazon clone using html5 and css3
